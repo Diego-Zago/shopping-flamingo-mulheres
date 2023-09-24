@@ -1,0 +1,58 @@
+/* Estilos para body e html */
+body, html {
+    height: 95%;
+    font-family: "Inconsolata", sans-serif;
+}
+
+/* Estilos para o cabeçalho de imagem */
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../docs/mulheres.jpg");
+    min-height: 75%;
+}
+
+/* Estilos para os links no topo */
+.w3-top .w3-button {
+    margin: 4px;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 24px;
+    font-size: 14px;
+}
+
+/* Estilos para as seções de conteúdo */
+.w3-container {
+    padding: 32px;
+}
+
+.w3-panel {
+    border-left: 4px solid #333;
+    padding-left: 16px;
+    margin-top: 16px;
+}
+
+/* Estilos para as abas de menu */
+.w3-card {
+    border: 1px solid #ccc;
+}
+
+.tablink {
+    cursor: pointer;
+}
+
+/* Estilos para a tag w3-wide */
+.w3-tag.w3-wide {
+    background-color: #FF6B6B; /* Cor de fundo vermelho claro */
+    color: #fff;
+    padding: 8px;
+}
+
+/* Estilos para a div de texto no cabeçalho */
+.header-text {
+    margin-top: 400px; /* Ajuste a margem superior conforme necessário */
+}
